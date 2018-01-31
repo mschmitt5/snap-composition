@@ -8,7 +8,7 @@
 
 class car {
     protected $wheels;
-    protected $body
+    protected $body;
 }
 
 trait brake {
